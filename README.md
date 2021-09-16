@@ -45,7 +45,4 @@ A react-native Mobile Flashcard App test
 <li>"babel-preset-expo": "8.0.0"</li>
 </ul>
 
-## Learning materials referenced
-<ul>
-  <li><a href="https://james-priest.github.io/mobile-flashcards/" target="_blank">https://james-priest.github.io/mobile-flashcards/</a></li>
-</ul>
+##
