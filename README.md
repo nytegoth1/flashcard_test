@@ -1,7 +1,7 @@
 # Mobile Flashcard test
 
 !
-* to clone: `git clone https://github.com/nytegoth1/`
+* to clone: `git clone https://github.com/nytegoth1/flashcard_test.git`
 * cd `flashcard_test`
 * install all project dependencies with `npm install` or `yarn install`
 * start the development server with `yarn start` or `expo start`
@@ -12,7 +12,7 @@
 * Icon used `https://play.google.com/store/apps/details?id=com.randomappsinc.simpleflashcards&hl=ms`
 <img src="https://play-lh.googleusercontent.com/RZGUOE64sXvT1jcLiwyIoNysvRbnteGGg9UQHdyiVnWKmro5MOB1m6zy8TeRpMksFc4=s360-rw" width="40" height="40">
 
-A react-native Mobile Flashcard App
+A react-native Mobile Flashcard App test
 
 * Todo: Began to add images for each flashcard, ultimately need to add the ability to change image when a user creates a new card.
 
